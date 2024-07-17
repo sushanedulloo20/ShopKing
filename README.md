@@ -14,7 +14,7 @@ To run the ShopKing application, follow these steps:
 
 ## 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/shopking.git
+   git clone https://github.com/yourusername/shopking.git](https://github.com/sushanedulloo20/ShopKing.git
    cd shopking
    ```
 ## 2. Install Dependencies:
